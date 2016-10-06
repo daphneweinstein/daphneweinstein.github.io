@@ -6,7 +6,7 @@ permalink: /about/
 
 This site is intended as a record of my thoughts as I complete my senior thesis in Computer Science at Princeton. It will also record my thoughts on other projects that I am thinking about or working on, because in my view these are all ultimately connected.
 
-My work to date has been mostly in natural language processing, most recently of the applied variety. This area is near and dear to my heart but I have recently been bitten by the blockchain bug. 
+My work to date has been mostly in natural language processing, most recently of the applied variety. This area is near and dear to my heart but I have recently become interested in blockchain and decentralization. 
 
 These are hints to what might appear here, but it is possible that I will diverge from these themes.
 
