@@ -2,7 +2,7 @@
 layout: post
 title:  "What Decentralized(ish) Data Storage Systems Tell Us About Scaling"
 date:   2017-02-09 17:05:04 -0400
-categories: newsbot
+categories: decentralization
 ---
 Scalability has been a central point of concern in the bitcoin and wider blockchain community for a while now. Decentralized data storage systems can be thought of as a microcosm of this discussion because of the increased scaling pressures faced by systems aimed at storing data. For example, one of the key insights that decentralized data storage projects have had that the rest of the cryptocurrency community is beginning to think about is delegation of certain roles off of the blockchain.
 
