@@ -13,7 +13,7 @@ As I downloaded the various syllabi from a wide range of departments I wondered:
 
 I realized that this is exactly the type of question that can be approached with some basic text processing. Here are my results comparing multiple years of the first-term proseminar in anthropology and history and seeing which scholars appeared in at least one year for both subjects:
 
-![](/assets/p3_img4.png){:class="img-responsive"}
+![](/assets/inthist1.png){:class="img-responsive"}
 
 In this instance, I manually downloaded the syllabi, but it would be possible to crawl for them, and indeed crawl for every syllabus on Princeton’s blackboard. As you can see, some names, such as Knopf, slipped through my naïve filtering and are not authors assigned in the class but the publisher. 
 
